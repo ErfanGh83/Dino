@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0d77e7dfe6c8918409bb739458ba8a9d
+timeCreated: 1554712616
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107196
+  packageName: POLYDesert
+  packageVersion: 1.1
+  assetPath: Assets/Runemark Studio/Freebies/PolyDesert Mobile/Materials/polydesert_atlas.mat
+  uploadId: 304479

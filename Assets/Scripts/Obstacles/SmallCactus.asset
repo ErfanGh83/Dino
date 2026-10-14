@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7397dc2e6b80d154c8af211d07d2d5af, type: 3}
+  m_Name: SmallCactus
+  m_EditorClassIdentifier: Assembly-CSharp::ObstacleData
+  prefab: {fileID: 6462347412369540828, guid: c11adea3d1023af40817bfdbcdab588b, type: 3}
+  minDistance: 5
+  maxDistance: 10

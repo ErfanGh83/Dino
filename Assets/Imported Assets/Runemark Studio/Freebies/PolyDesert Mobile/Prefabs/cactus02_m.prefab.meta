@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5c243d3591422814a81656730b54873b
+labels:
+- Cartoon
+- Desert
+- Lowpoly
+- Plant
+- Terrain
+- Vegetation
+timeCreated: 1554712924
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107196
+  packageName: POLYDesert
+  packageVersion: 1.1
+  assetPath: Assets/Runemark Studio/Freebies/PolyDesert Mobile/Prefabs/cactus02_m.prefab
+  uploadId: 304479
