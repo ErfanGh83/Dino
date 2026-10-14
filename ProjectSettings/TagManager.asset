@@ -2,12 +2,17 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
+<<<<<<< HEAD
   serializedVersion: 3
   tags:
   - Ground
   - Obstacle
   - Coin
   - Heal
+=======
+  serializedVersion: 2
+  tags: []
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
   layers:
   - Default
   - TransparentFX
@@ -54,4 +59,31 @@ TagManager:
   - Light Layer 5
   - Light Layer 6
   - Light Layer 7
+<<<<<<< HEAD
   m_MigratedRenderPipelines: []
+=======
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6

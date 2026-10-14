@@ -26,7 +26,11 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+<<<<<<< HEAD
   m_SkyboxMaterial: {fileID: 2100000, guid: 170f2a047c448444ca1b8e2d20f504f1, type: 2}
+=======
+  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,12 +42,20 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+<<<<<<< HEAD
+=======
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   serializedVersion: 13
   m_BakeOnSceneLoad: 0
+=======
+  serializedVersion: 12
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
@@ -119,6 +131,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &30904788
 GameObject:
   m_ObjectHideFlags: 0
@@ -1280,6 +1293,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 328863399}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -1340,7 +1355,11 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
+<<<<<<< HEAD
   field of view: 75
+=======
+  field of view: 60
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -1367,7 +1386,11 @@ Transform:
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 2.491, z: -3.22}
+=======
+  m_LocalPosition: {x: 0, y: 1, z: -10}
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1409,6 +1432,7 @@ MonoBehaviour:
   m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
+<<<<<<< HEAD
   m_TaaSettings:
     m_Quality: 3
     m_FrameInfluence: 0.1
@@ -1554,6 +1578,16 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 387898132}
   m_CullTransparentMesh: 1
+=======
+  m_Version: 2
+  m_TaaSettings:
+    quality: 3
+    frameInfluence: 0.1
+    jitterScale: 1
+    mipBias: 0
+    varianceClampScale: 0.9
+    contrastAdaptiveSharpening: 0
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -1580,14 +1614,22 @@ Light:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 410087039}
   m_Enabled: 1
+<<<<<<< HEAD
   serializedVersion: 13
+=======
+  serializedVersion: 11
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
   m_Type: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 2
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
+<<<<<<< HEAD
   m_CookieSize2D: {x: 10, y: 10}
+=======
+  m_CookieSize: 10
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
   m_Shadows:
     m_Type: 2
     m_Resolution: -1
@@ -1632,11 +1674,16 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ForceVisible: 0
+<<<<<<< HEAD
   m_ShapeRadius: 0
   m_ShadowAngle: 0
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+=======
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
 --- !u!4 &410087041
 Transform:
   m_ObjectHideFlags: 0
@@ -1664,6 +1711,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   m_UsePipelineSettings: 1
   m_AdditionalLightsShadowResolutionTier: 2
   m_CustomShadowLayers: 0
@@ -2971,6 +3019,19 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+=======
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 1
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -3020,6 +3081,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &856951124
 GameObject:
   m_ObjectHideFlags: 0
@@ -7252,6 +7314,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2147335580}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -7259,6 +7323,7 @@ SceneRoots:
   - {fileID: 330585546}
   - {fileID: 410087041}
   - {fileID: 832575519}
+<<<<<<< HEAD
   - {fileID: 2036629252}
   - {fileID: 1344148085}
   - {fileID: 1524797707}
@@ -7273,3 +7338,5 @@ SceneRoots:
   - {fileID: 766771782}
   - {fileID: 498399783}
   - {fileID: 2084167296}
+=======
+>>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
