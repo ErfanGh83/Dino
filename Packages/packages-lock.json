@@ -1,6 +1,5 @@
 {
   "dependencies": {
-<<<<<<< HEAD
     "com.unity.2d.animation": {
       "version": "16.0.1",
       "depth": 0,
@@ -74,8 +73,6 @@
         "com.unity.modules.uielements": "1.0.0"
       }
     },
-=======
->>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
     "com.unity.ai.navigation": {
       "version": "2.0.14",
       "depth": 0,
@@ -100,11 +97,7 @@
     },
     "com.unity.collections": {
       "version": "6.6.0",
-<<<<<<< HEAD
       "depth": 1,
-=======
-      "depth": 2,
->>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
       "source": "builtin",
       "dependencies": {
         "com.unity.burst": "1.8.25",
@@ -121,11 +114,7 @@
     },
     "com.unity.graph-authoring": {
       "version": "1.0.0",
-<<<<<<< HEAD
       "depth": 1,
-=======
-      "depth": 2,
->>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
       "source": "builtin",
       "dependencies": {}
     },
@@ -147,7 +136,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
     "com.unity.ide.vscode": {
       "version": "1.2.5",
       "depth": 0,
@@ -155,8 +143,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
     "com.unity.inputsystem": {
       "version": "1.20.0",
       "depth": 0,
@@ -166,7 +152,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
     "com.unity.mathematics": {
       "version": "1.4.0",
       "depth": 1,
@@ -176,16 +161,10 @@
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.6",
       "depth": 2,
-=======
-    "com.unity.nuget.mono-cecil": {
-      "version": "1.11.6",
-      "depth": 3,
->>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
     "com.unity.postprocessing": {
       "version": "3.5.4",
       "depth": 0,
@@ -196,8 +175,6 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
     "com.unity.profiling.core": {
       "version": "1.0.3",
       "depth": 2,
@@ -236,22 +213,14 @@
     },
     "com.unity.searcher": {
       "version": "4.9.5",
-<<<<<<< HEAD
       "depth": 1,
-=======
-      "depth": 2,
->>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.shadergraph": {
       "version": "17.6.0",
-<<<<<<< HEAD
       "depth": 0,
-=======
-      "depth": 1,
->>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
       "source": "builtin",
       "dependencies": {
         "com.unity.render-pipelines.core": "17.6.0",
@@ -271,11 +240,7 @@
     },
     "com.unity.test-framework.performance": {
       "version": "6.6.0",
-<<<<<<< HEAD
       "depth": 2,
-=======
-      "depth": 3,
->>>>>>> db1a6d473fe95a4fae35f20cbc5203a97cb0f0e6
       "source": "builtin",
       "dependencies": {
         "com.unity.test-framework": "1.1.33",
